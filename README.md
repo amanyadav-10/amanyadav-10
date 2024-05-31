@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**amanyadav-10/amanyadav-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello 👋, I am Aman Yadav
+Passionate tech enthusiast | MERN stack developer with expertise in C++, JavaScript, and Solidity 💻 | Competitive programmer, LeetCode Knight and Codeforces Specialist 🏆 |  Excited about innovation and open source contributions!✨
+Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Javascript, React, Node.js, C++,SQL and DBMS**
+📫 How to reach me iamamanyadav20@gmail.com
+
+📄 Know about my professional experience https://drive.google.com/file/d/1j52jAcvxRWY0FfpZiBw5yp9KjGXA7eTV/view
+
+Connect with me:
+https://www.linkedin.com/in/aman-yadav-006584218/
+
+Languages and Tools:
+bootstrap chartjs cplusplus css3 express html5 javascript mongodb mysql nodejs react
+
+amanyadav-10
